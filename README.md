@@ -15,4 +15,4 @@
 視頻地址：https://youtu.be/TqVNaCJEsrk <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/flutter-flame-jet/blob/main/preview.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/flutter-flame-bullet-hell/blob/main/flutter-bg.gif)
