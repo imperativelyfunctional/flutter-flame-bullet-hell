@@ -1,16 +1,18 @@
-# rpg_flame
+# 本期是flutter教學系列的第十五期
 
-A new Flutter project.
+# 教學內容包括：
+- RPG, 塔防，卷軸遊戲地圖設計和開發
+- 碰撞處理
+- flame
+- flame_tiled
+- flame_audio
+- collision detection
+- memory management and optimization
+- better timer management
+- camera munipulation
+# 教學預期：學員可以用tiled map editor設計自己喜歡的遊戲地圖，幾何圖形碰撞處理，並且用簡短的代碼完成遊戲地圖的加載和通過玩家的走動來更新地圖，碰撞處理，內存優化，以及照相機控制。
 
-## Getting Started
+視頻地址：https://youtu.be/TqVNaCJEsrk <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![遊戲截屏](https://github.com/imperativelyfunctional/flutter-flame-jet/blob/main/preview.gif)
